@@ -2,7 +2,7 @@
 
 This is a movie search application built with React.js that utilizes the TMDB API. It allows users to search for movies and get detailed information about them.
 
-![Demo](movie finder.gif)
+![Demo](./movie%20finder.gif)
 
 ## Features
 
